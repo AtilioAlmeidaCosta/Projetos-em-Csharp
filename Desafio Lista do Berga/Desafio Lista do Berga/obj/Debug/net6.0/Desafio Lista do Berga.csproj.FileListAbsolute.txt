@@ -1,0 +1,15 @@
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\bin\Debug\net6.0\Desafio Lista do Berga.exe
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\bin\Debug\net6.0\Desafio Lista do Berga.deps.json
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\bin\Debug\net6.0\Desafio Lista do Berga.runtimeconfig.json
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\bin\Debug\net6.0\Desafio Lista do Berga.dll
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\bin\Debug\net6.0\Desafio Lista do Berga.pdb
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\Desafio Lista do Berga.csproj.AssemblyReference.cache
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\Desafio Lista do Berga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\Desafio Lista do Berga.AssemblyInfoInputs.cache
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\Desafio Lista do Berga.AssemblyInfo.cs
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\Desafio Lista do Berga.csproj.CoreCompileInputs.cache
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\Desafio Lista do Berga.dll
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\refint\Desafio Lista do Berga.dll
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\Desafio Lista do Berga.pdb
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\Desafio Lista do Berga.genruntimeconfig.cache
+D:\Users\ATILIO\Desktop\Projetos e praticas de programação\C#\Desafio Lista do Berga\Desafio Lista do Berga\obj\Debug\net6.0\ref\Desafio Lista do Berga.dll
